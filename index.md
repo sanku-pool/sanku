@@ -1,3 +1,4 @@
+##### Ticker: SANKU
 ## Vision?
 
 The Sanku Stakepool helps to secure the Cardano network by running a decentralized infrastructure maintained by IT professionals. This pool intention is to provide reliable Cardano infrastructure / protocol service with high desirability for you as a delegator. 
