@@ -15,7 +15,7 @@ Consistency. This means we have to keep working at it. The network evolves and w
 
 ## Who are we
 
-We are IT professionals based in Austria with over 7 Years experience and a passion for cryptocurrency. Our is to run this pool indefinitely, we trust in Cardano and want to be a part of the most decentralized cryptocurrency in the world. We can confidently move forward with this venture and responsibly manage this Cardano stake pool. 
+We are IT professionals based in Austria with over 7 Years experience and a passion for cryptocurrency. Our goal is to run this pool indefinitely, we trust in Cardano and want to be a part of the most decentralized cryptocurrency in the world. We can confidently move forward with this venture and responsibly manage this Cardano stake pool. 
 
 ## Over 500K Pledge
 #### put your money where your mouth is
